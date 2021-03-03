@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DistributedPiCalculation/DistributedPiCalculation.iml" filepath="$PROJECT_DIR$/DistributedPiCalculation/DistributedPiCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroupChat/GroupChat.iml" filepath="$PROJECT_DIR$/GroupChat/GroupChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heat/Heat.iml" filepath="$PROJECT_DIR$/Heat/Heat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixMultiplication/MatrixMultiplication.iml" filepath="$PROJECT_DIR$/MatrixMultiplication/MatrixMultiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI_Producer_Consumer/RMI_Producer_Consumer.iml" filepath="$PROJECT_DIR$/RMI_Producer_Consumer/RMI_Producer_Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMIcalculator/RMIcalculator.iml" filepath="$PROJECT_DIR$/RMIcalculator/RMIcalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piCalculation/piCalculation.iml" filepath="$PROJECT_DIR$/piCalculation/piCalculation.iml" />
+    </modules>
+  </component>
+</project>
